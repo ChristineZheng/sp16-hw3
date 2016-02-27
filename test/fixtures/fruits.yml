@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  color: MyString
+  weight: 1
+  tasty: false
+
+two:
+  color: MyString
+  weight: 1
+  tasty: false
